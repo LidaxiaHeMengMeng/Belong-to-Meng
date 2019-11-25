@@ -1,14 +1,15 @@
 /*背景页面颜色设置*/
 html{
 	background:linear-gradient(#0268D5 0%,#0268D5 0%,#BC00C2 20%,#2ECC71 );/*背景颜色渐变*/
-    height: 200%;
+    height: 100%;
+	width: 100%;
     color:#ebfaf2;/*字体颜色*/
 }
 /*动态样式设置*/
 /*最外层容器样式*/
 .wrap{
-	width: 200px;
-	height: 200px;
+	width: 400px;
+	height: 400px;
 	/*改变左右上下,图片方块移动*/
 	margin: 150px auto;
 	position: relative;
